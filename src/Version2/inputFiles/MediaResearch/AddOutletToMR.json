@@ -1,0 +1,83 @@
+{
+  "Action": 0,
+  "APIOutletID": "",
+  "OutletName": "",
+  "Emails": [
+    {
+      "Action": 1,
+      "Value": "",
+      "OriginalValue": "",
+      "IsPrimary": false
+    }
+  ],
+  "PhoneNumbers": [
+    {
+      "Action": 1,
+      "Value": "",
+      "OriginalValue": "",
+      "IsPrimary": false
+    }
+  ],
+  "FaxNumbers": [
+    {
+      "Action": 1,
+      "Value": "",
+      "OriginalValue": "",
+      "IsPrimary": false
+    }
+  ],
+  "Websites": [
+    {
+      "Action": 1,
+      "Value": "",
+      "OriginalValue": "",
+      "IsPrimary": false
+    }
+  ],
+  "AddressLine1": "",
+  "AddressLine2": "",
+  "CountryID": 0,
+  "StateProvinceID": 0,
+  "CityID": 0,
+  "County": "",
+  "PostalCode": "",
+  "IsNewAddress": false,
+  "IsAddressPreferred": false,
+  "LinkedInProfiles": [
+    {
+      "Action": 1,
+      "Value": "",
+      "OriginalValue": "",
+      "IsPrimary": false
+    }
+  ],
+  "TwitterAccounts": [
+    {
+      "Action": 1,
+      "Value": "",
+      "OriginalValue": "",
+      "IsPrimary": false
+    }
+  ],
+  "FacebookAccounts": [
+    {
+      "Action": 1,
+      "Value": "",
+      "OriginalValue": "",
+      "IsPrimary": false
+    }
+  ],
+  "WorkingLanguageIDs": [
+    {
+      "IsPrimary": false,
+      "Action": 1,
+      "ID": 0
+    }
+  ],
+  "SubjectIDs": [
+    {
+      "Action": 1,
+      "ID": 0
+    }
+  ]
+}

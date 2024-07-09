@@ -1,0 +1,9 @@
+{
+  "query": "john",
+  "geographies": [
+    {
+      "id": 11,
+      "type": "CONTINENT"
+    }
+  ]
+}

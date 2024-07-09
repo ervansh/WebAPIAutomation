@@ -1,0 +1,10 @@
+{
+  "webApiClientId": "",
+  "accountName": "",
+  "contractEndDate": "2020-02-16T",
+  "customerGeographies": [
+    54281,
+    54286
+  ],
+  "geographiesExcluded": true
+}

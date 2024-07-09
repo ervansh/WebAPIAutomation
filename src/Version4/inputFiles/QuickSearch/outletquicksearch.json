@@ -1,0 +1,9 @@
+{
+  "query": "acme",
+  "geographies": [
+    {
+      "id": 11,
+      "type": "CONTINENT"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "PageNumber": 1,
+  "PageSize": 100,
+  "ApiContactIDs": [],
+  "ApiOutletContactIDs": [],
+  "Names": [],
+  "WritingAbout": [],
+  "LocatedIn": [],
+  "JobRoles": [],
+  "Languages": [],
+  "MediaTypes": [],
+  "NewsFocuses": [],
+  "Frequencies": [],
+  "IncludeBlogs": false,
+  "ContactNames": [],
+  "OutletNames": [],
+  "ApiOutletIDs": [],
+  "OutletWritingAbout": [],
+  "OutletTypes": [],
+  "OutletAreasOfCoverage": [],
+  "OutletLanguageID": [],
+  "SmartSort": false,
+  "SortField": {
+    "FieldName": 1,
+    "Order": 1
+  },
+  "TwitterHandleRequired": false,
+  "LinkedinProfileRequired": false,
+  "PrimaryContactsOnly": false
+}

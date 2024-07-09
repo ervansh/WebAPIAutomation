@@ -1,0 +1,20 @@
+{
+  "PageNumber": 1,
+  "PageSize": 100,
+  "Names": [],
+  "ApiOutletIDs": [],
+  "WritingAbout": [],
+  "Languages": [],
+  "OutletTypes": [],
+  "AreasOfCoverage": [],
+  "Frequencies": [],
+  "MediaTypes": [],
+  "NewsFocuses": [],
+  "IncludeBlogs": false,
+  "SmartSort": false,
+  "SortField": {
+    "FieldName": 1,
+    "Order": 1
+  },
+  "TwitterHandleRequired": false
+}

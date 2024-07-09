@@ -1,0 +1,12 @@
+{
+  "Name": "",
+  "GeographyIDs": [],
+  "ContactSortField": {
+    "FieldName": 1,
+    "Order": 1
+  },
+  "OutletSortField": {
+    "FieldName": 1,
+    "Order": 1
+  }
+}

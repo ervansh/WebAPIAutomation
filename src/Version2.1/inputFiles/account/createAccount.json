@@ -1,0 +1,10 @@
+{
+  "disclaimerId": "",
+  "accountName": "",
+  "contractEndDate": "2020-02-16",
+  "customerGeographies": [
+    54281,
+    54286
+  ],
+  "geographiesExcluded": true
+}

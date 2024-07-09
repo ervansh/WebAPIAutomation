@@ -1,0 +1,56 @@
+{
+  "aliases": [
+    
+  ],
+  "contactUUIDs": [],
+  "languageCodes": [
+    
+  ],
+  "locatedIn": [
+    
+  ],
+  "productFrequencies": [
+    
+  ],
+  "subjectSearch": {
+    "operator": "AND",
+    "writingAbout": [
+      
+    ]
+  },
+  "jobRoles": [
+    
+  ],
+  "mediaTypes": [
+    
+  ],
+  "coverageFocuses": [
+    
+  ],
+  "potentialAudience": {
+    
+  },
+  "outletAliases": [
+    
+  ],
+  "outletUUIDs": [],
+  "outletLanguageCodes": [
+    
+  ],
+  "outletSubjectSearch": {
+    "operator": "AND",
+    "writingAbout": [
+      
+    ]
+  },
+  "areasOfCoverage": [
+    
+  ],
+  "includeBlogs": true,
+  "communicationMethodSearch": {
+    "operator": "AND",
+    "communicationMethod": [
+      
+    ]
+  }
+}

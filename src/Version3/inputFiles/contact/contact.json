@@ -1,0 +1,36 @@
+{
+  "apiContactIds": [],
+  "apiOutletContactIds": [],
+  "names": [],
+  "subjectSearch": {
+    "operator": 1,
+    "writingAbout": []
+  },
+  "locatedIn": [],
+  "jobRoles": [],
+  "languages": [],
+  "mediaTypes": [],
+  "newsFocuses": [],
+  "frequencies": [],
+  "includeBlogs": false,
+  "contactNames": [],
+  "outletNames": [],
+  "apiOutletIds": [],
+  "outletSubjectSearch": {
+    "operator": 1,
+    "writingAbout": []
+  },
+  "outletTypes": [],
+  "outletAreasOfCoverage": [],
+  "outletLanguageId": [],
+  "targetingListIDs": [],
+  "twitterHandleRequired": false,
+  "linkedinProfileRequired": false,
+  "primaryContactsOnly": false,
+  "pageIndex": 1,
+  "itemsPerPage": 100,
+  "smartSort": false,
+  "sortBy": 1,
+  "order": 1
+  
+}

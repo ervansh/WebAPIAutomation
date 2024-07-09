@@ -1,0 +1,102 @@
+{
+  "action": 0,
+  "apiOutletContactId": "",
+  "firstName": "",
+  "lastName": "",
+  "outletName": "",
+  "outletCountryOfOriginId": 0,
+  "emails": [
+    {
+      "action": 1,
+      "value": "",
+      "originalValue": "",
+      "isPrimary": false
+    }
+  ],
+  "phoneNumbers": [
+    {
+      "action": 1,
+      "value": "",
+      "originalValue": "",
+      "isPrimary": false
+    }
+  ],
+  "prefix": "",
+  "faxNumbers": [
+    {
+      "action": 1,
+      "value": "",
+      "originalValue": "",
+      "isPrimary": false
+    }
+  ],
+  "jobTitle": "",
+  "jobRoleIds": [
+    {
+      "action": 1,
+      "id": 0
+    }
+  ],
+  "websites": [
+    {
+      "action": 1,
+      "value": "",
+      "originalValue": "",
+      "isPrimary": false
+    }
+  ],
+  "addressLine1": "",
+  "addressLine2": "",
+  "countryId": 0,
+  "stateProvinceId": 0,
+  "cityId": 0,
+  "county": "",
+  "postalCode": "",
+  "isNewAddress": false,
+  "isAddressPreferred": false,
+  "linkedInProfiles": [
+    {
+      "action": 1,
+      "value": "",
+      "originalValue": "",
+      "isPrimary": false
+    }
+  ],
+  "twitterAccounts": [
+    {
+      "action": 1,
+      "value": "",
+      "originalValue": "",
+      "isPrimary": false
+    }
+  ],
+  "facebookAccounts": [
+    {
+      "action": 1,
+      "value": "",
+      "originalValue": "",
+      "isPrimary": false
+    }
+  ],
+  "workingLanguageIds": [
+    {
+      "isPrimary": false,
+      "action": 1,
+      "id": 0
+    }
+  ],
+  "instagramAccounts": [
+    {
+      "action": 1,
+      "value": "",
+      "originalValue": "",
+      "isPrimary": false
+    }
+  ],
+  "subjectIds": [
+    {
+      "action": 1,
+      "id": 0
+    }
+  ]
+}

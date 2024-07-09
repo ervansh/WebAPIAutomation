@@ -1,0 +1,43 @@
+{
+  "aliases": [
+    ""
+  ],
+  "languageCodes": [
+    
+  ],
+  "outletUUIDs": [],
+  "areasOfCoverage": [
+    
+  ],
+  "productTypes": [
+    
+  ],
+  "productFrequencies": [
+    
+  ],
+  "mediaTypes": [
+    
+  ],
+  "subjectSearch": {
+    "operator": "AND",
+    "writingAbout": [
+      
+    ]
+  },
+  "coverageFocuses": [
+    
+  ],
+  "designatedMarketAreas": [
+    
+  ],
+  "potentialAudience": {
+    
+  },
+  "includeBlogs": true,
+  "communicationMethodSearch": {
+    "operator": "AND",
+    "communicationMethod": [
+      
+    ]
+  }
+}
